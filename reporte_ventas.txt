@@ -1,0 +1,9 @@
+=== Reporte de Ventas PyTech Store ===
+
+Ingresos Totales: $8,289.00
+
+Producto Más Vendido (unidades): '25' (PROD003), con 25 unidades.
+Producto con Mayores Ingresos: '4352.25' (PROD001), generando $4,352.25.
+--- Ventas No Procesadas ---
+- No hay suficiente stock para 'Laptop Gamer Pro' (PROD001)
+- No hay suficiente stock para 'Monitor Curvo 27 pulgadas' (PROD004)

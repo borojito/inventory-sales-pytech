@@ -1,0 +1,6 @@
+id_producto,nombre_producto,precio,stock_inicial,stock_final
+PROD001,Laptop Gamer Pro,1450.75,10,7
+PROD002,Mouse Inalambrico RGB,45.50,50,42
+PROD003,Teclado Mecanico TKL,89.99,25,0
+PROD004,Monitor Curvo 27 pulgadas,320.00,15,15
+PROD005,Auriculares 7.1 Surround,110.25,30,18
